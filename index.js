@@ -1,5 +1,5 @@
 const calculator = function() {
-    const total, 
+    let total, 
         firstN, 
         secondN;
 
